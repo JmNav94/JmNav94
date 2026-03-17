@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/ Help Desk Projects:</h2>
 
 - <b> HomeLab Practice</b>
-  - [Active Directory Homelab](https://github.com/JmNav94/LABURL)
+  - [Active Directory Homelab](README.md)
   - [Remote Desk Set Up](https://github.com/JmNav94/LabURL)
   - 
 
