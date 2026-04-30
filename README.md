@@ -4,7 +4,7 @@
 
 - <b> HomeLab Practice</b>
   - [Windows-Settings-and-Personalization-Lab](https://github.com/JmNav94/Windows-Settings-and-Personalization-Lab)
-  - [Windows-Security-Controls-Lab]([https://github.com/JmNav94/LabURL](https://github.com/JmNav94/Windows-Security-Controls))
+  - [Windows-Security-Controls-Lab](https://github.com/JmNav94/Windows-Security-Controls)
   - 
 
 <h2> Certifications </h2>
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/jose-navarro26
+[linkedin]: [www.linkedin.com/in/jose-navarro26](https://www.linkedin.com/in/jose-navarro26/)
 
 
 
