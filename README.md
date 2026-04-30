@@ -8,6 +8,10 @@
   - 
 
 <h2> Certifications </h2>
+  - Comptia Security+
+  - Comptia A+
+  - Comptia Network+
+  - Google Cybersecurity
 
 <h2> 🤳 Connect with me:</h2>
 
