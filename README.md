@@ -8,6 +8,7 @@
   - 
 
 <h2> Certifications </h2>
+
   - Comptia Security+
   
   - Comptia A+
