@@ -6,7 +6,7 @@
   - [Windows-Settings-and-Personalization-Lab](https://github.com/JmNav94/Windows-Settings-and-Personalization-Lab)
   - [Windows-Security-Controls-Lab](https://github.com/JmNav94/Windows-Security-Controls)
   - [Windows-Active-Directory-Lab](https://github.com/JmNav94/Active-Directory-Lab)
-  - [Windows-Group-Policy-Lab](https://github.com/JmNav94/Active-Directory-Group-Policy-Tickets-Lab))
+  - [Windows-Group-Policy-Lab](https://github.com/JmNav94/Active-Directory-Group-Policy-Tickets-Lab)
  
 
 <h2> Certifications </h2>
